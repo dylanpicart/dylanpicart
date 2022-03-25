@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dylan Picart, and I'm a Data Science student at The Knowledge House
+- 👋🏾 Hi, I’m Dylan Picart, and I'm a Data Science student at The Knowledge House
 - 👀 I’m interested in Machine Learning, Astronomy, Quantum Theory, Finance, Health, and Environmental Science
 - 🌱 I’m currently learning API browsing, DataBase creation, and analysis through SQL
 - 💞️ I’m looking to collaborate on projects surrounding Environmental Science/Engineering and Physics 
