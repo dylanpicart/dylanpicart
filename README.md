@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Astronomy, Quantum Theory, Finance, Health, and Environmental Science
 - 🌱 I’m currently learning API browsing, DataBase creation, and analysis through SQL
 - 💞️ I’m looking to collaborate on projects surrounding Environmental Science/Engineering, Physics, & Social Issues
-- 📫 You could reach me via email: dylanpicart@mail.adelphi.edu
+- 📫 You could reach me via email!
 
 <!---
 dylanpicart/dylanpicart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
