@@ -4,7 +4,7 @@
 - 👀 I’m interested in AI, Astronomy, Quantum Theory, Finance, Health, and Environmental Science
 - 🌱 I’m currently learning Unsupervised Machine Learning, API building, Neural Networks, NPL, and SQL DataBase manipulation
 - 💞️ I’m looking to collaborate on projects surrounding Environmental Science/Engineering, Physics, & Social Issues
-- 📫 You could reach me via email
+- 📫 You can reach me via email
 
 <!---
 dylanpicart/dylanpicart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
